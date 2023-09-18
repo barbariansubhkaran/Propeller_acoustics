@@ -54,9 +54,9 @@ maxCo           2;
 
 functions
 {
-    #includeFunc Q
-    #include "surfaces"
-    #include "forces"
+
+    #include "fwhControl"
+
 }
 
 // ************************************************************************* //
